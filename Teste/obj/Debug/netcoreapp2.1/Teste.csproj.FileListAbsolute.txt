@@ -1,0 +1,11 @@
+C:\Users\ramil\OneDrive\Área de Trabalho\Teste\Teste\bin\Debug\netcoreapp2.1\Teste.deps.json
+C:\Users\ramil\OneDrive\Área de Trabalho\Teste\Teste\bin\Debug\netcoreapp2.1\Teste.runtimeconfig.json
+C:\Users\ramil\OneDrive\Área de Trabalho\Teste\Teste\bin\Debug\netcoreapp2.1\Teste.runtimeconfig.dev.json
+C:\Users\ramil\OneDrive\Área de Trabalho\Teste\Teste\bin\Debug\netcoreapp2.1\Teste.dll
+C:\Users\ramil\OneDrive\Área de Trabalho\Teste\Teste\bin\Debug\netcoreapp2.1\Teste.pdb
+C:\Users\ramil\OneDrive\Área de Trabalho\Teste\Teste\obj\Debug\netcoreapp2.1\Teste.csprojAssemblyReference.cache
+C:\Users\ramil\OneDrive\Área de Trabalho\Teste\Teste\obj\Debug\netcoreapp2.1\Teste.csproj.CoreCompileInputs.cache
+C:\Users\ramil\OneDrive\Área de Trabalho\Teste\Teste\obj\Debug\netcoreapp2.1\Teste.AssemblyInfoInputs.cache
+C:\Users\ramil\OneDrive\Área de Trabalho\Teste\Teste\obj\Debug\netcoreapp2.1\Teste.AssemblyInfo.cs
+C:\Users\ramil\OneDrive\Área de Trabalho\Teste\Teste\obj\Debug\netcoreapp2.1\Teste.dll
+C:\Users\ramil\OneDrive\Área de Trabalho\Teste\Teste\obj\Debug\netcoreapp2.1\Teste.pdb
